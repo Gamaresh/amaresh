@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Amaresh</finalName>
+    <finalName>deploy</finalName>
   </build>
 </project>
